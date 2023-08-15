@@ -33,7 +33,7 @@ $(function() {
 			$("#si-yao").html(result.classical.yao.si.ci);
 			$("#si-yao-m").html(result.modern.yao.si.ci);
 			$("#si-yao-xiang").html(result.classical.yao.si.xiang);
-			$("#si-yao-xiang-m").html(result.classical.yao.si.xiang);
+			$("#si-yao-xiang-m").html(result.modern.yao.si.xiang);
 			$("#san-yao-xiang-m").html(result.modern.yao.si.xiang);
 			$("#wu-yao").html(result.classical.yao.wu.ci);
 			$("#wu-yao-m").html(result.modern.yao.wu.ci);
