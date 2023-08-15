@@ -2,7 +2,7 @@
 
 ## [卦符] [卦名]
 
-<style>blockquote{margin-left:2em;}</style><br>
+<br>
 
 **[卦辞]**
 
