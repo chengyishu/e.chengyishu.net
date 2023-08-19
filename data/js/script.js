@@ -54,7 +54,18 @@ $(function() {
 			$('body').show();
 		}
 	});
-
+	$.ajax({
+		type: "GET",
+		url: "https://e.chengyishu.net/data/js/guoyi365.json",
+		data: {},
+		dataType: "JSON",
+		success: function(result) {
+			// 替换内容
+			$("#hy").attr('href',result[gua].hy);
+			$("#cy").attr('href',result[gua].cy);
+			$("#ys").attr('href',result[gua].ys);
+		}
+	});
 });
 
 function getUrlParam(name) {
