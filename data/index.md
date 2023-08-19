@@ -2,9 +2,7 @@
 
 ## [卦符] [卦名]
 
-<a id="hy" target="_blank" style="background:#5784ec;color:white;padding:3px 8px;font-weight:bold;border-radius:10px;margin-right:0.8rem;">婚姻解卦</a><a id="cy" target="_blank" style="background:#5784ec;color:white;padding:3px 8px;font-weight:bold;border-radius:10px;margin-right:0.8rem;">财运解卦</a><a id="ys" target="_blank" style="background:#5784ec;color:white;padding:3px 8px;font-weight:bold;border-radius:10px;margin-right:0.8rem;">运势解卦</a>
-
-<br>
+<a id="hy" target="_blank" style="background:#5784ec;color:white;padding:3px 8px;font-weight:bold;border-radius:10px;margin-right:0.8rem;margin-bottom:0.8rem;display:inline-block;">婚姻解卦</a><a id="cy" target="_blank" style="background:#5784ec;color:white;padding:3px 8px;font-weight:bold;border-radius:10px;margin-right:0.8rem;margin-bottom:0.8rem;display:inline-block;">财运解卦</a><a id="ys" target="_blank" style="background:#5784ec;color:white;padding:3px 8px;font-weight:bold;border-radius:10px;margin-right:0.8rem;margin-bottom:0.8rem;display:inline-block;">运势解卦</a>
 
 **[卦辞]**
 
