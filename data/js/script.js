@@ -61,9 +61,9 @@ $(function() {
 		dataType: "JSON",
 		success: function(result) {
 			// 替换内容
-			$("#hy").attr('href',result[gua].hy);
-			$("#cy").attr('href',result[gua].cy);
-			$("#ys").attr('href',result[gua].ys);
+			$("#hy").attr('href',result[gua]['婚姻']);
+			$("#cy").attr('href',result[gua]['财运']);
+			$("#ys").attr('href',result[gua]['运势']);
 		}
 	});
 });
