@@ -2,11 +2,11 @@ $(function() {
 
 	var gua=getUrlParam("gua");
 	if (!gua) {
-		location.href="https://e.chengyishu.net/";
+		location.href="/";
 	}
 	$.ajax({
 		type: "GET",
-		url: "https://e.chengyishu.net/data/"+gua+".json",
+		url: "/data/"+gua+".json",
 		data: {},
 		dataType: "JSON",
 		success: function(result) {
@@ -56,7 +56,7 @@ $(function() {
 	});
 	$.ajax({
 		type: "GET",
-		url: "https://e.chengyishu.net/data/js/guoyi365.json",
+		url: "/data/js/guoyi365.json",
 		data: {},
 		dataType: "JSON",
 		success: function(result) {
